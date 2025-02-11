@@ -153,8 +153,8 @@ importers:
         specifier: ^0.2.2
         version: 0.2.2
       rotating-file-stream:
-        specifier: ^3.2.5
-        version: 3.2.5
+        specifier: ^3.2.6
+        version: 3.2.6
       rxjs:
         specifier: ^7.8.1
         version: 7.8.1
@@ -4112,8 +4112,8 @@ packages:
     deprecated: Rimraf versions prior to v4 are no longer supported
     hasBin: true
 
-  rotating-file-stream@3.2.5:
-    resolution: {integrity: sha512-T8iBxUA4SookMTU97cIHUPck7beLOvN4g+y4db9E2eLn54OFsdp4qMnxuqmmJ05lcQHzueEVnPRykxfnPG948g==}
+  rotating-file-stream@3.2.6:
+    resolution: {integrity: sha512-r8yShzMWUvWXkRzbOXDM1fEaMpc3qo2PzK7bBH/0p0Nl/uz8Mud/Y+0XTQxe3kbSnDF7qBH2tSe83WDKA7o3ww==}
     engines: {node: '>=14.0'}
 
   run-async@2.4.1:
@@ -9364,7 +9364,7 @@ snapshots:
     dependencies:
       glob: 7.2.3
 
-  rotating-file-stream@3.2.5: {}
+  rotating-file-stream@3.2.6: {}
 
   run-async@2.4.1: {}
 
