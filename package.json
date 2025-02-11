@@ -82,7 +82,7 @@
     "prisma-cursorstream": "^0.4.0",
     "prisma-extension-pagination": "^0.7.5",
     "reflect-metadata": "^0.2.2",
-    "rotating-file-stream": "^3.2.5",
+    "rotating-file-stream": "^3.2.6",
     "rxjs": "^7.8.1",
     "swagger-ui-express": "^5.0.1"
   },
